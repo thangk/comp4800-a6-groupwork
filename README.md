@@ -24,3 +24,9 @@ scrapy crawl toscrape-crawler
 
 In `a6_web_crawler/spiders/toscrape_crawler.py` by changing the `self.nodes_limit` value.
 Note: `-1 = unlimited nodes`.
+
+<br>
+
+### Sample output
+
+![Sample output](sample_output.jpg "A sampleo output")
